@@ -1,0 +1,125 @@
+action	action.simp.strict	action.simp.loose
+NA	NA	NA
+inhibitor	inhibition	inhibition
+antagonist	inhibition	inhibition
+agonist	activation	activation
+positive allosteric modulator	activation	activation
+potentiator	mixed	activation
+binder	other	other
+cofactor	other	other
+other/unknown	other	other
+activator	activation	activation
+inducer	activation	activation
+other	other	other
+partial agonist	activation	activation
+antibody	inhibition	inhibition
+ligand	other	other
+negative modulator	other	inhibition
+product of	other	other
+inhibitor, competitive	inhibition	inhibition
+unknown	other	other
+intercalation	other	other
+allosteric modulator	other	other
+adduct	other	other
+cross-linking/alkylation	other	inhibition
+modulator	mixed	mixed
+antagonist ; inhibitor	inhibition	inhibition
+chelator	other	other
+positive modulator	activation	activation
+incorporation into and destabilization	inhibition	inhibition
+blocker	inhibition	inhibition
+antagonist ; partial agonist	mixed	mixed
+multitarget	other	other
+inverse agonist	inhibition	inhibition
+antagonist ; agonist	mixed	mixed
+cleavage	other	other
+stimulator	activation	activation
+agonist ; partial agonist	activation	activation
+chaperone	other	other
+metabolizer	other	other
+binding	other	other
+suppressor	inhibition	inhibition
+agonist ; modulator	mixed	mixed
+antagonist ; multitarget	inhibition	inhibition
+neutralizer	other	other
+partial antagonist	mixed	inhibition
+antagonist ; other/unknown	inhibition	inhibition
+agonist ; activator	activation	activation
+antagonist ; antibody	inhibition	inhibition
+substrate	other	other
+component of	other	other
+antagonist ; inhibitory allosteric modulator	inhibition	inhibition
+antagonist ; cross-linking/alkylation	inhibition	inhibition
+antagonist ; binder	inhibition	inhibition
+desensitize the target	other	inhibition
+acetylation	other	other
+reducer	other	other
+antagonist ; blocker	inhibition	inhibition
+antagonist ; inhibitor, competitive	inhibition	inhibition
+antagonist ; inhibitory immune response	inhibition	inhibition
+agonist ; inhibitor	mixed	mixed
+agonist ; stimulator	activation	activation
+agonist ; positive allosteric modulator	activation	activation
+antisense oligonucleotide	inhibition	inhibition
+oxidizer	other	other
+stabilization	other	activation
+antagonist ; agonist ; negative modulator	mixed	mixed
+weak inhibitor	inhibition	inhibition
+aggregation inhibitor	other	inhibition
+inactivator	inhibition	inhibition
+antagonist ; inverse agonist	mixed	mixed
+nucleotide exchange blocker	inhibition	inhibition
+gene replacement	activation	activation
+inhibitor ; activator	mixed	mixed
+antagonist ; inducer	mixed	mixed
+inhibitor ; inducer	mixed	mixed
+downregulator	inhibition	inhibition
+regulator	mixed	mixed
+blocker ; inactivator	inhibition	inhibition
+inhibitor ; downregulator	inhibition	inhibition
+inhibitor ; binder	inhibition	inhibition
+substrate ; inhibitor	other	inhibition
+antagonist ; ligand	inhibition	inhibition
+inhibitory allosteric modulator	inhibition	inhibition
+binder ; protector	other	other
+inhibitor ; potentiator	mixed	mixed
+substrate ; inducer	other	other
+substrate ; product of	other	other
+antagonist ; partial agonist ; ligand	mixed	mixed
+disruptor	other	other
+modulator ; metabolizer	other	mixed
+inhibitor ; antibody	inhibition	inhibition
+degradation	inhibition	inhibition
+translocation inhibitor	other	inhibition
+inactivator ; regulator	mixed	inhibition
+inducer ; ligand	other	other
+inhibitor ; ligand	inhibition	inhibition
+modulator ; ligand	mixed	mixed
+cofactor ; chelator	other	other
+inducer ; modulator	mixed	mixed
+antagonist ; substrate	other	inhibition
+inhibitor ; stimulator	mixed	mixed
+inducer ; activator	activation	activation
+antagonist ; weak inhibitor	inhibition	inhibition
+agonist ; inducer	activation	activation
+activator ; modulator	mixed	mixed
+agonist ; inhibitor ; downregulator	mixed	mixed
+activator ; potentiator	mixed	activation
+agonist ; potentiator	mixed	activation
+binder ; potentiator	activation	activation
+agonist ; downregulator	mixed	mixed
+antagonist ; downregulator	inhibition	inhibition
+inducer ; acetylation	other	other
+inhibitor ; binder ; downregulator	inhibition	inhibition
+antagonist ; potentiator	mixed	mixed
+cofactor ; product of	other	other
+binder ; activator	activation	activation
+antagonist ; modulator	mixed	mixed
+coating agent	other	other
+protector	other	other
+antagonist ; dilator	other	inhibition
+deoxidizer	other	other
+diffusing substance	other	other
+vesicant	other	other
+inhibition of synthesis	inhibition	inhibition
+agonist ; inhibits downstream inflammation cascades	mixed	mixed
